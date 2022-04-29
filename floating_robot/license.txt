@@ -1,0 +1,11 @@
+Model Information:
+* title:	Floating robot
+* source:	https://sketchfab.com/3d-models/floating-robot-20dd7f7bdc9a4c36aef491f12afa14d8
+* author:	nada.elshorbagi (https://sketchfab.com/nada.elshorbagi)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Floating robot" (https://sketchfab.com/3d-models/floating-robot-20dd7f7bdc9a4c36aef491f12afa14d8) by nada.elshorbagi (https://sketchfab.com/nada.elshorbagi) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
