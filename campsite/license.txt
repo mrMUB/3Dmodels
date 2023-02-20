@@ -1,0 +1,11 @@
+Model Information:
+* title:	campsite
+* source:	https://sketchfab.com/3d-models/campsite-1c91c636465546c5a374d3b7860527a2
+* author:	linus1178 (https://sketchfab.com/linus1178)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "campsite" (https://sketchfab.com/3d-models/campsite-1c91c636465546c5a374d3b7860527a2) by linus1178 (https://sketchfab.com/linus1178) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
